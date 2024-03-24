@@ -1,0 +1,19 @@
+= About This Repository
+
+This repository contains the TEI source file, and derived text and HTML files of an ebook posted to https://www.gutenberg.org/[Project Gutenberg]. Like the version posted to Project Gutenberg, this ebook is free from copyright in the U.S. No claim is made about its copyright status outside the U.S.
+
+The version maintained in this repository may be slightly out-of-sync with the version maintained at Project Gutenberg. Mostly, fixes will be made first here, and only then reposted to Project Gutenberg. When you encounter any issue in this text, please report it here.
+
+== About This Ebook
+
+|===
+|Field |Value
+
+|Title |The Jewish Religion
+|Author |Michael Friedländer (1833–1910)
+|Publisher |Project Gutenberg, Urbana, Illinois, USA., 2024-03-03
+|Publication date |2024-03-03
+|Availability |This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at https://www.gutenberg.org/[www.gutenberg.org]. This eBook is produced by the Online Distributed Proofreading Team at https://www.pgdp.net/[www.pgdp.net]. Scans of this book are available from the Internet Archive (this (second) edition: copy https://archive.org/details/thejewishreligio00frie/page/n5/mode/2up[1]; also of the first edition: copy https://archive.org/details/jewishreligion00frie/page/n5/mode/2up[1], https://archive.org/details/jewishreligi_frie_1891_000_4708938/page/n5/mode/2up[2]).
+|Keyword |Judaism
+|PG Ebook Number |https://www.gutenberg.org/ebooks/73092[73092]
+|===
